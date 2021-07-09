@@ -37,3 +37,8 @@ SKR V1.4 in order to support the additional extruder. Mods include:
 Currently the only slicer I'm using. These profiles have been tuned
 specifically for the above printers and may not serve as a good starting point
 for yours. They are here to serve as my backup and a reference for others.
+
+# License
+
+All files here are licensed under the GPL v3. See [LICENSE](./LICENSE) for full
+details.
