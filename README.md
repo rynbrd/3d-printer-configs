@@ -15,7 +15,7 @@ This is a Voron 2.4 with 250mm^3 build volume. Mods include:
 - [Arkeet's MGN12]
 - [Klicky Probe]
 - [Auto Z Calibration]
-- [Frame Compensation]
+- [alch3my's Frame Compensation]
 
 ### VS.096
 
