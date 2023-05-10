@@ -3,10 +3,10 @@
 ROOT=$(cd "$(dirname "$0")"; pwd)
 KLIPPER_CONFIG=klipper-config
 
-V2700_IP=192.168.86.188
+V2700_IP=voron24.fm.local
 V2700_DEST="$ROOT/printers/V2.700"
 
-VS096_IP=192.168.86.137
+VS096_IP=voronsw.fm.local
 VS096_DEST="$ROOT/printers/VS.096"
 
 SUPERSLICER_SRC=/mnt/c/Users/BlueDragonX/AppData/Roaming/SuperSlicer
