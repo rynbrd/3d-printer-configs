@@ -12,12 +12,10 @@ subtle differences in builds that can result in damage to your printer.
 ### V2.700
 
 This is a Voron 2.4 with 250mm^3 build volume. Mods include:
-- [Badnoob's AB-BN-30]
-- [Arkeet's MGN12]
-- [Klicky Probe]
+- [Stealthburner and CW2]
+- [Mellow Fly SB2040]
 - [Nevermore] V5 Duo
 - [Decontaminator] Nozzle Scrubber (without purge bucket)
-- [Auto Z Calibration]
 - [Steel Extrusion Backers]
 - Dynamic Bed Mesh
 
@@ -41,10 +39,9 @@ for yours. They are here to serve as my backup and a reference for others.
 All files here are licensed under the GPL v3. See [LICENSE](./LICENSE) for full
 details.
 
-[Arkeet's MGN12]: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12
-[Auto Z Calibration]: https://github.com/protoloft/klipper_z_calibration
+[Stealthburner and CW2]: https://vorondesign.com/voron_stealthburner
+[Mellow Fly SB2040]: https://mellow-3d.github.io/fly-sb2040_v1_general.html
 [Badnoob's AB-BN-30]: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN
 [Decontaminator]: https://www.teamfdm.com/files/file/188-decontaminator-purge-bucket/
-[Klicky Probe]: https://github.com/jlas1/Klicky-Probe
 [Nevermore]: https://github.com/nevermore3d/Nevermore_Micro
 [Steel Extrusion Backers]: https://dfh.fm/collections/backers/products/steel-extrusion-backers?variant=42065000562910
