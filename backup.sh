@@ -3,10 +3,10 @@
 ROOT=$(cd "$(dirname "$0")"; pwd)
 KLIPPER_CONFIG=klipper-config
 
-V2700_IP=voron24.fm.local
+V2700_HOST=voron24.rynbrd.me
 V2700_DEST="$ROOT/printers/V2.700"
 
-VS096_IP=voronsw.fm.local
+VS096_HOST=voronsw.rynbrd.me
 VS096_DEST="$ROOT/printers/VS.096"
 
 SUPERSLICER_SRC=/mnt/c/Users/BlueDragonX/AppData/Roaming/SuperSlicer
@@ -24,6 +24,6 @@ backup_superslicer() {
 	done
 }
 
-backup_printer "$V2700_IP" "$V2700_DEST"
-backup_printer "$VS096_IP" "$VS096_DEST"
+backup_printer "$V2700_HOST" "$V2700_DEST"
+backup_printer "$VS096_HOST" "$VS096_DEST"
 backup_superslicer "$SUPERSLICER_SRC" "$SUPERSLICER_DEST"
