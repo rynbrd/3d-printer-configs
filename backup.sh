@@ -9,7 +9,7 @@ V2700_DEST="$ROOT/printers/V2.700"
 VS096_HOST=voronsw.rynbrd.me
 VS096_DEST="$ROOT/printers/VS.096"
 
-SUPERSLICER_SRC=/mnt/c/Users/BlueDragonX/AppData/Roaming/SuperSlicer
+SUPERSLICER_SRC=/mnt/c/Users/rynbrd/AppData/Roaming/SuperSlicer
 SUPERSLICER_DEST="$ROOT/slicers/SuperSlicer"
 
 backup_printer() {
